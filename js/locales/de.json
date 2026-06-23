@@ -1,0 +1,10 @@
+{
+  "app": {
+    "title": "Image Size Converter",
+    "description": "Resize image dimensions, keep aspect ratio, estimate print size, and export a resized copy."
+  },
+  "ui": {
+    "skip": "Skip to tool",
+    "loading": "Loading..."
+  }
+}
